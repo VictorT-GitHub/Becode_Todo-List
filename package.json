@@ -4,7 +4,6 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "dependencies": {
     "parcel": "^2.0.0-rc.0"
   },
