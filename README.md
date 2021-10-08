@@ -1,6 +1,6 @@
 # Becode_Todo-List
 
-Simple Todo list made with : **HTML** - **CSS** - **JavaScript** - **Parcel**
+Simple To Do List made with : **HTML** - **CSS** - **JavaScript** - **Parcel**
 
 First project with Parcel and JS import/export
 
