@@ -10,7 +10,6 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "main": "src/javascript/index.js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",

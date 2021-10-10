@@ -11,7 +11,7 @@ export function pushTask(array, elem) {
 }
 
 // ---------------------------------------------------------------------------------
-// Remove element selected by his index from his array
+// Remove element (selected by his index) from his array
 function spliceTask(array, taskText) {
 
     array.splice(array.indexOf(taskText.innerHTML), 1);
