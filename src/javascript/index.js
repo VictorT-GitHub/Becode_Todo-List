@@ -7,12 +7,12 @@ const taskInput = document.querySelector("#textInput");
 
 const textIfEmptyList = "nothing to do, you can go to sleep";
 
-let taskListSection = document.querySelector(".taskListSection");
+const taskListSection = document.querySelector(".taskListSection");
 
 // La liste est vide de base, donc texte présent par default a l ouverture de la page
 taskListSection.textContent = textIfEmptyList;
 
-let taskListArray = [];
+const taskListArray = [];
 
 // --------------------------------------------------------
 //         CLICK EVENT LISTENER : ADD TASK BUTTON

@@ -34,12 +34,12 @@ function removeTask(task, taskText, array, listSection, emptyListText) {
 
 // ----------------------------------------------------------------EXPORT-----------
 export function displayTask(array, listSection, emptyListText) {
-  let task = document.createElement("article");
+  const task = document.createElement("article");
 
-  let taskText = document.createElement("p");
+  const taskText = document.createElement("p");
   taskText.innerHTML = array[array.length - 1];
 
-  let taskBtn = document.createElement("button");
+  const taskBtn = document.createElement("button");
   taskBtn.innerHTML = "remove";
   taskBtn.addEventListener("click", () =>
     removeTask(task, taskText, array, listSection, emptyListText)
