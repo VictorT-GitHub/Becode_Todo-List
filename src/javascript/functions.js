@@ -25,7 +25,7 @@ function addEmptyListText(array, listSection, emptyListText) {
 
 // ---------------------------------------------------------------------------------
 function removeTask(task, taskText, array, listSection, emptyListText) {
-  task.remove(); // remove element from parent
+  task.remove(); // remove DOM element
 
   spliceTask(array, taskText);
 

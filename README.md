@@ -1,6 +1,6 @@
 # Becode_Todo-List
 
-Simple To Do List
+Simple To Do List from scratch
 
 **HTML** | **CSS** | **JavaScript** | **Parcel** | **ESLint**
 
