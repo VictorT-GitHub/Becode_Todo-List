@@ -1,8 +1,8 @@
 # Becode_Todo-List
 
-Simple To Do List from scratch
+Simple To Do List exercice
 
-**HTML** | **CSS** | **JavaScript** | **Parcel** | **ESLint**
+**HTML** - **CSS** - **JavaScript** - **Parcel** - **ESLint** - **Prettier**
 
 First project with ESLint, Parcel and JS import/export
 
